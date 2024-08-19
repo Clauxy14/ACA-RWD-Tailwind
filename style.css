@@ -1,0 +1,10 @@
+.flex{
+    height: 100vh;
+}
+
+.flex-1:first-child{
+    background-image: url(images/photo-1489065094455-c2d576ff27a0.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
